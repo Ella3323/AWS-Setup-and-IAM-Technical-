@@ -1,2 +1,2 @@
-# AWS-Setup-and-IAM-Technical-
-This AWS documentation provides a step-by-step guide for setting up AWS accounts, IAM users, IAM groups, and AWS Identity Center. It covers account creation, role management, MFA setup, and AWS Organizations, with clear instructions and screenshots to help beginners securely configure and manage their AWS environment.
+This repository contains my AWS setup documentation
+https://simple-chalk-ea1.notion.site/AWS-Setup-and-IAM-Technical-Documentation-By-Pamela-Ezeotika-2cd2b5d383cf80d7955ae9718ee10afe?source=copy_link
